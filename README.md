@@ -36,8 +36,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/anton-kolotukhin-bbb816228/)
 
-[Почта](risers.tiered0b@icloud.com)
-
 [Instagram](https://www.instagram.com/kolotukhin.md/)
 
 Буду рад пообщаться и поделиться опытом! Давайте совместно создадим что-то удивительное!
