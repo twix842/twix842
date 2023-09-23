@@ -34,8 +34,13 @@
 
 ## Контакты
 
-- LinkedIn: [ваш профиль LinkedIn](ссылка)
+- LinkedIn: [ваш профиль LinkedIn]([ссылка](https://www.linkedin.com/in/anton-kolotukhin-bbb816228/))
 - Почта: [risers.tiered0b@icloud.com]
+
+[yandex]: https://yandex.ru/
+[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/anton-kolotukhin-bbb816228/
+[instagram]: https://www.instagram.com/kolotukhin.md/
 
 Буду рад пообщаться и поделиться опытом! Давайте совместно создадим что-то удивительное!
 
